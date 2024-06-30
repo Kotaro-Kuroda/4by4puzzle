@@ -56990,7 +56990,7 @@ p.r3(A.adu(null,o,!0,null,new A.YQ(q),r,null,s,B.uX,!0,t.z))}},
 $S:0}
 A.YQ.prototype={
 $1(a){var s=this.a
-return new A.lu(B.K2,B.K1,A.a([A.a7v(B.K3,new A.YO(s)),A.a7v(B.K4,new A.YP(s))],t.F),null)},
+return new A.lu(B.K1,B.K3,A.a([A.a7v(B.K2,new A.YO(s)),A.a7v(B.K4,new A.YP(s))],t.F),null)},
 $S:354}
 A.YO.prototype={
 $0(){var s=this.a.c
@@ -61076,9 +61076,9 @@ B.Jf=new A.m(!0,B.y,null,"Roboto",B.z,null,null,null,null,null,null,null,null,nu
 B.II=new A.m(!0,B.k,null,"Roboto",B.z,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackHelsinki labelMedium",null,null,null,null)
 B.IS=new A.m(!0,B.k,null,"Roboto",B.z,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackHelsinki labelSmall",null,null,null,null)
 B.K0=new A.cR(B.Jy,B.Hg,B.I2,B.IH,B.IU,B.GO,B.HH,B.GS,B.Iv,B.J5,B.I8,B.J6,B.Jf,B.II,B.IS)
-B.K1=new A.hB("This is the content",null,null,null,null)
-B.K2=new A.hB("This is the title",null,null,null,null)
-B.K3=new A.hB("Cancel",null,null,null,null)
+B.K1=new A.hB("\u304a\u3081\u3067\u3068\u3046\u3054\u3056\u3044\u307e\u3059\uff01",null,null,null,null)
+B.K2=new A.hB("Cancel",null,null,null,null)
+B.K3=new A.hB("\u30af\u30ea\u30a2!!",null,null,null,null)
 B.K4=new A.hB("OK",null,null,null,null)
 B.MF=new A.UU(0,"system")
 B.K5=new A.tA(null)
