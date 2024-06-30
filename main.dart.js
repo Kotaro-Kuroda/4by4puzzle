@@ -56927,7 +56927,7 @@ al(){return new A.Fh(B.o)}}
 A.Fh.prototype={
 O(a){var s,r=null,q=A.cz(a,r,t.w).w.a,p=Math.min(q.a,q.b)*0.8/4
 this.a.toString
-s=A.a7u("Flutter Demo Home Page")
+s=A.a7u("4 x 4 Puzzle (\u5468\u671f\u8868)")
 return new A.rO(new A.op(s,new A.Ga(r,r,1/0,56),r),A.Kn(new A.rb(4,4,B.AM,p,p,r),r,r),r)}}
 A.ra.prototype={
 al(){return new A.Gf(B.o)}}
